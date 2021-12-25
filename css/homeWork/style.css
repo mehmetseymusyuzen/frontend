@@ -1,0 +1,48 @@
+body {
+    background-color: #F2DDC1;
+}
+
+h1 {
+    color: darkred;
+    text-align: center;
+    font-size: 47px;
+}
+
+h2  {
+    color: rgb(76, 63, 145);  
+    text-align: center;
+    font-size: 35px;
+}
+
+h3 {
+    color: rgb(76, 63, 145); 
+    text-align: center;
+    font-size: 30px;
+}
+
+h4 {
+    color: rgb(76, 63, 145);
+    text-align:left;
+    font-size: 30px;    
+}
+
+#home-page {
+    font-size: 20px;
+    text-align: center;
+}
+
+.lists {
+    list-style-position: inside;
+    text-align: center;
+    font-size: 19px;
+}
+
+.position {
+    font-size: 21px;
+    text-align: center;
+}   
+
+.about-us {
+    font-size: 20px;
+}
+
